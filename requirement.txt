@@ -1,0 +1,13 @@
+# Sales Forecasting Dashboard Requirements
+# Python Version: 3.11 or later
+
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+scikit-learn
+scipy
+statsmodels
+xgboost
+prophet
